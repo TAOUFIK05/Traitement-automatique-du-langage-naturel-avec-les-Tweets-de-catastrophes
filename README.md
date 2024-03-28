@@ -1,9 +1,6 @@
 # Traitement automatique du langage naturel avec les Tweets de catastrophes
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/48359677/236162555-45e5a078-4d69-4357-8d43-4ecac94ee3e2.jpg" width='900' height="400"/>
-</p>
-<p align="center">
     <img src="https://github.com/TAOUFIK05/Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes/assets/48359677/51c684d2-addd-4ae3-9dc7-28acc948bb4b.jpg" width='900' height="400" />
 </p>
 
@@ -31,7 +28,7 @@ Chaque échantillon dans l'ensemble d'entraînement et de test contient les info
 
 ## Colonnes
 
-    id - un identifiant unique pour chaque tweet
+    **id** - un identifiant unique pour chaque tweet
     text - le texte du tweet
     location - l'emplacement d'où le tweet a été envoyé (peut être vide)
     keyword - un mot-clé associé au tweet (peut être vide)
