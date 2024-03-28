@@ -33,4 +33,4 @@ Chaque échantillon dans l'ensemble d'entraînement et de test contient les info
     keyword : un mot-clé associé au tweet (peut être vide)
     target : dans train.csv seulement, cela indique si un tweet concerne une véritable catastrophe (1) ou non (0)
 
-Ce projet est inspiré par la compétition "Natural Language Processing with Disaster Tweets" sur Kaggle [@misc{nlp-getting-started, author = {Addison Howard, devrishi, Phil Culliton, Yufeng Guo}, title = {Natural Language Processing with Disaster Tweets}, publisher = {Kaggle}, year = {2019}, url = {https://kaggle.com/competitions/nlp-getting-started}].
+###### Ce projet est inspiré par la compétition "Natural Language Processing with Disaster Tweets" sur Kaggle https://kaggle.com/competitions/nlp-getting-started.
