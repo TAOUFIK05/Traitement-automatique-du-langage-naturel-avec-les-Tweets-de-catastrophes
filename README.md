@@ -4,9 +4,9 @@
     <img src="https://user-images.githubusercontent.com/48359677/236162555-45e5a078-4d69-4357-8d43-4ecac94ee3e2.jpg" width='900' height="400"/>
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/48359677/b47baba8-b58d-4c40-87b1-cc7e2fcca6f2.jpg"/>
+    <img src="https://user-images.githubusercontent.com/48359677/b47baba8-b58d-4c40-87b1-cc7e2fcca6f2.jpg" width='900' height="400" />
 </p>
-![oie_9LGhBHUTpNS6](https://github.com/TAOUFIK05/Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes/assets/48359677/b47baba8-b58d-4c40-87b1-cc7e2fcca6f2)
+
 
 Ce projet de traitement automatique du langage naturel (TALN) visant à prédire les tweets relatifs aux catastrophes. Le projet se concentre sur le développement d'un modèle d'apprentissage automatique capable de distinguer les tweets réels sur les catastrophes des tweets non pertinents. Les données utilisées sont issues d'un ensemble de tweets annotés manuellement. Ce projet vise à explorer les techniques de TALN et à fournir une solution pratique pour la surveillance des médias sociaux en cas d'urgence.
 
