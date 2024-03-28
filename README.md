@@ -16,9 +16,9 @@ Dans ce contexte, le défi consiste à développer un modèle d'apprentissage au
 Chaque échantillon dans l'ensemble d'entraînement et de test contient les informations suivantes :
 
     - Le texte d'un tweet
-    Un mot-clé associé à ce tweet (qui peut être vide)
-    L'emplacement d'où le tweet a été envoyé (également susceptible d'être vide)
-    La cible, qui indique dans l'ensemble d'entraînement si le tweet concerne une véritable catastrophe (1) ou non (0)
+    - Un mot-clé associé à ce tweet (qui peut être vide)
+    - L'emplacement d'où le tweet a été envoyé (également susceptible d'être vide)
+    - La cible, qui indique dans l'ensemble d'entraînement si le tweet concerne une véritable catastrophe (1) ou non (0)
 
 ## Fichiers
 
