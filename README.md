@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/48359677/236162555-45e5a078-4d69-4357-8d43-4ecac94ee3e2.jpg" width='900' height="400"/>
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/48359677/b47baba8-b58d-4c40-87b1-cc7e2fcca6f2.jpg" width='900' height="400" />
+    <img src="https://github.com/TAOUFIK05/Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes/assets/48359677/51c684d2-addd-4ae3-9dc7-28acc948bb4b.jpg" width='900' height="400" />
 </p>
 
 
