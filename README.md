@@ -22,8 +22,8 @@ Chaque échantillon dans l'ensemble d'entraînement et de test contient les info
 
 ## Fichiers
 
-    train.csv : l'ensemble d'entraînement
-    test.csv : l'ensemble de test
+    train_disaster_tweets.csv : l'ensemble d'entraînement
+    test_disaster_tweets.csv : l'ensemble de test
 
 ## Colonnes
 
