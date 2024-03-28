@@ -24,7 +24,6 @@ Chaque échantillon dans l'ensemble d'entraînement et de test contient les info
 
     train.csv : l'ensemble d'entraînement
     test.csv : l'ensemble de test
-    sample_submission.csv : un fichier de soumission d'exemple dans le format correct
 
 ## Colonnes
 
