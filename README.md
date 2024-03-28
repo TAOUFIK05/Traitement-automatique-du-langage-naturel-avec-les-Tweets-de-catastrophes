@@ -15,23 +15,23 @@ Dans ce contexte, le défi consiste à développer un modèle d'apprentissage au
 
 Chaque échantillon dans l'ensemble d'entraînement et de test contient les informations suivantes :
 
-    Le texte d'un tweet
+    - Le texte d'un tweet
     Un mot-clé associé à ce tweet (qui peut être vide)
     L'emplacement d'où le tweet a été envoyé (également susceptible d'être vide)
     La cible, qui indique dans l'ensemble d'entraînement si le tweet concerne une véritable catastrophe (1) ou non (0)
 
 ## Fichiers
 
-    train.csv - l'ensemble d'entraînement
-    test.csv - l'ensemble de test
-    sample_submission.csv - un fichier de soumission d'exemple dans le format correct
+    train.csv : l'ensemble d'entraînement
+    test.csv : l'ensemble de test
+    sample_submission.csv : un fichier de soumission d'exemple dans le format correct
 
 ## Colonnes
 
-    id - un identifiant unique pour chaque tweet
-    text - le texte du tweet
-    location - l'emplacement d'où le tweet a été envoyé (peut être vide)
-    keyword - un mot-clé associé au tweet (peut être vide)
-    target - dans train.csv seulement, cela indique si un tweet concerne une véritable catastrophe (1) ou non (0)
+    id : un identifiant unique pour chaque tweet
+    text : le texte du tweet
+    location : l'emplacement d'où le tweet a été envoyé (peut être vide)
+    keyword : un mot-clé associé au tweet (peut être vide)
+    target : dans train.csv seulement, cela indique si un tweet concerne une véritable catastrophe (1) ou non (0)
 
 
