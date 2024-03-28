@@ -1,4 +1,4 @@
-# Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes
+# Traitement automatique du langage naturel avec les Tweets de catastrophes
 
 Ce projet de traitement automatique du langage naturel (TALN) visant à prédire les tweets relatifs aux catastrophes. Le projet se concentre sur le développement d'un modèle d'apprentissage automatique capable de distinguer les tweets réels sur les catastrophes des tweets non pertinents. Les données utilisées sont issues d'un ensemble de tweets annotés manuellement. Ce projet vise à explorer les techniques de TALN et à fournir une solution pratique pour la surveillance des médias sociaux en cas d'urgence.
 
