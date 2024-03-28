@@ -28,7 +28,7 @@ Chaque échantillon dans l'ensemble d'entraînement et de test contient les info
 
 ## Colonnes
 
-    **id** - un identifiant unique pour chaque tweet
+    id - un identifiant unique pour chaque tweet
     text - le texte du tweet
     location - l'emplacement d'où le tweet a été envoyé (peut être vide)
     keyword - un mot-clé associé au tweet (peut être vide)
