@@ -1,4 +1,4 @@
-# Traitement automatique du langage naturel avec les Tweets de catastrophes
+# Traitement automatique du langage naturel avec les Tweets de catastrophes 
 
 <p align="center">
     <img src="https://github.com/TAOUFIK05/Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes/assets/48359677/51c684d2-addd-4ae3-9dc7-28acc948bb4b.jpg" width='900' height="400" />
